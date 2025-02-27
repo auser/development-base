@@ -1,6 +1,12 @@
 # Development Base
 
-This is a base image for development purposes. It is a simple image that is used to build and run the project.
+This is a base image for development purposes. It is a simple image that is used to build and run projects with base flavors.
+
+## Flavors
+
+More flavors can be added by adding a new directory in the `flavors` directory and adding a Dockerfile.
+
+- rust
 
 ## Building the image
 
